@@ -1,0 +1,18 @@
+matric
+intermediate
+bachelor
+bsc
+b.sc
+bs
+msc
+m.sc
+ms
+m.phil
+phd
+mba
+engineering
+computer science
+university
+college
+degree
+diploma

@@ -1,0 +1,17 @@
+python
+java
+c++
+javascript
+react
+node.js
+machine learning
+data analysis
+sql
+html
+css
+django
+flask
+excel
+communication
+teamwork
+problem solving
